@@ -1,5 +1,5 @@
-##Math tools and theorems
+# Math tools and theorems
 
-###It calculates famous theorems by famous mathematicians.
+### It calculates famous theorems by famous mathematicians.
 
 ### Made in Java!
